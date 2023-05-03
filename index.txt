@@ -1,1 +1,11 @@
-<h1>Welcome to the phansite!</h1>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Welcome to the Phansite [WIP]</h1>
+
+<p>Will soon be up, with a chat feature and monthly polls!</p>
+
+</body>
+</html>
