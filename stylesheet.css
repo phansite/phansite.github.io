@@ -1,1 +1,8 @@
+@font-face {
+  font-family: p5Hatty;
+  src: url(p5hatty-1-webfont.woff);
+}
 
+div {
+  font-family: p5Hatty;
+}
